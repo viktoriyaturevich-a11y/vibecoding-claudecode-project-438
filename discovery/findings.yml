@@ -1,17 +1,13 @@
 findings:
   - id: passive-vocabulary
     claim: |
-      Слова знают пассивно, но в нужный момент не могут вспомнить
-      и употребить их в речи
+      Слова знают пассивно: в нужный момент не могут вспомнить
+      и употребить их, а без употребления быстро забывают
     evidence:
       - source: interviews/07-respondent.md
         quote: Но я иногда не могу вытащить нужное слово, подходящее слово в той или иной ситуации
       - source: interviews/08-respondent.md
         quote: А вот этот пассивный, он вообще не используется
-  - id: words-forgotten
-    claim: |
-      Выученные слова быстро забываются, если их не употреблять
-    evidence:
       - source: interviews/01-respondent.md
         quote: эти слова, как будто вообще в голове не задерживаются
       - source: interviews/06-respondent.md
