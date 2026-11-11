@@ -1,0 +1,76 @@
+findings:
+  - id: passive-vocabulary
+    claim: |
+      Слова знают пассивно, но в нужный момент не могут вспомнить
+      и употребить их в речи
+    evidence:
+      - source: interviews/07-respondent.md
+        quote: Но я иногда не могу вытащить нужное слово, подходящее слово в той или иной ситуации
+      - source: interviews/08-respondent.md
+        quote: А вот этот пассивный, он вообще не используется
+  - id: words-forgotten
+    claim: |
+      Выученные слова быстро забываются, если их не употреблять
+    evidence:
+      - source: interviews/01-respondent.md
+        quote: эти слова, как будто вообще в голове не задерживаются
+      - source: interviews/06-respondent.md
+        quote: А то, что я не употребляю, я забываю
+  - id: study-after-work
+    claim: |
+      Готовятся после работы, и на занятия не хватает времени и сил
+    evidence:
+      - source: interviews/01-respondent.md
+        quote: Ты с работы приходишь, там кушать надо, приготовить
+      - source: interviews/06-respondent.md
+        quote: просто сна не хватает, я уже на работе засыпаю
+  - id: no-feedback
+    claim: |
+      Без человека, который поправляет, не видят своих ошибок
+      и переоценивают свой уровень
+    evidence:
+      - source: interviews/08-respondent.md
+        quote: и не имея обратной связи, у меня сложилось впечатление, что я хорош в спикмене
+      - source: interviews/05-respondent.md
+        quote: Чтобы мне указывали на мои ошибки, чтобы я эти ошибки исправлял
+  - id: pay-for-tutor
+    claim: |
+      За исправление ошибок уже платят репетиторам, от 8 до 35 долларов за урок
+    evidence:
+      - source: interviews/01-respondent.md
+        quote: 8 долларов за урок, два раза в неделю
+      - source: interviews/05-respondent.md
+        quote: стоит часовое занятие 35 долларов
+  - id: trust-recommendations
+    claim: |
+      Рекламе не доверяют, новые инструменты выбирают по личным рекомендациям
+    evidence:
+      - source: interviews/01-respondent.md
+        quote: вообще контекстную рекламу не очень воспринимаю
+      - source: interviews/02-respondent.md
+        quote: любая реклама на меня не действует
+      - source: interviews/04-respondent.md
+        quote: у меня обычно только личная рекомендация
+  - id: listening-speaking-first
+    claim: |
+      Противоречит исходной идее: у части собеседников главная трудность
+      не в словах, а в понимании на слух и в скорости устного ответа
+    evidence:
+      - source: interviews/06-respondent.md
+        quote: я вот слушаю, пока я свяжу слова, я уже забываю, что я слушала до этого
+      - source: interviews/05-respondent.md
+        quote: Я чувствую, мне именно не хватает времени, как бы, придумать в голове топик на русском
+  - id: dislike-typing
+    claim: |
+      Противоречит исходной идее: не все готовы печатать ответы,
+      особенно с телефона
+    evidence:
+      - source: interviews/01-respondent.md
+        quote: не очень люблю печатать, я не люблю ватсапы
+      - source: interviews/02-respondent.md
+        quote: с телефона как раз неудобно печатать
+
+# Что удивило: находки listening-speaking-first и dislike-typing.
+# Тренажёр построен на том, что человек пишет свои предложения со словами.
+# Но у части собеседников главная боль в аудировании и устной речи,
+# а печатать, особенно с телефона, хотят не все.
