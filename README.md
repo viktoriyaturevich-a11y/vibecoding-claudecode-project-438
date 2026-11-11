@@ -16,22 +16,29 @@
 Учебный проект Хекслета: https://ru.hexlet.io/programs/vibecoding-claudecode
 
 
+## О проекте
+
+Тренажёр слов для работающих специалистов, которые готовятся к эмиграции и сдают международный экзамен по английскому на балл, нужный для визы. Человек пишет своё предложение со словом из тем экзамена и сразу получает разбор: объяснение ошибки на русском и улучшенный вариант на английском.
+
+Прототип в Claude Design: https://claude.ai/artifact/3MC8MXzSWZs68USdAwYuWo
+
 ## Стек
 
-- Разное
+- Продуктовое исследование и прототип в Claude Design. Кода в проекте нет.
 
-## Установка
+## Как смотреть проект
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+Начните с [discovery/product.md](discovery/product.md), затем откройте прототип по ссылке выше.
 
-```bash
-git clone https://github.com/viktoriyaturevich-a11y/vibecoding-claudecode-project-438.git
-cd vibecoding-claudecode-project-438
-```
-
-## Использование
-
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+- [idea.md](discovery/idea.md): задача и первые пользователи
+- [interview-guide.md](discovery/interview-guide.md): гайд для интервью
+- [interviews/](discovery/interviews/): расшифровки интервью
+- [findings.yml](discovery/findings.yml): находки с цитатами
+- [competitors.md](discovery/competitors.md): конкуренты и ручной способ
+- [pricing.yml](discovery/pricing.yml): цена из величины боли
+- [mvp.md](discovery/mvp.md): гипотезы и объём MVP
+- [spec.md](discovery/spec.md): спека с критериями приёмки
+- [product.md](discovery/product.md): описание продукта
 
 ---
 
