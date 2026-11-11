@@ -41,6 +41,14 @@ findings:
         quote: 8 долларов за урок, два раза в неделю
       - source: interviews/05-respondent.md
         quote: стоит часовое занятие 35 долларов
+  - id: films-instead-of-exercises
+    claim: |
+      Вместо упражнений смотрят фильмы и сериалы, это легче и бесплатно
+    evidence:
+      - source: interviews/01-respondent.md
+        quote: мне проще включить видео, фильм или сериал, чем начать упражнения
+      - source: interviews/02-respondent.md
+        quote: Я люблю смотреть фильмы, сериалы
   - id: trust-recommendations
     claim: |
       Рекламе не доверяют, новые инструменты выбирают по личным рекомендациям
